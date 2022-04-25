@@ -18,7 +18,7 @@ Example JSON and XML texts for the Excel and VBA Coding Course.
 
 * PDF form filling.
 
-* Selenium, web scraping and connect with APIs.
+* Selenium, web scraping and connect with APIs using VBA.
 
 ### **Microsoft Excel Formulas Master Class**
 

@@ -6,7 +6,7 @@ Example JSON and XML texts for the Excel and VBA Coding Course.
 
 ### **Microsoft Excel VBA Master Class**
 
-  [https://www.udemy.com/course/excel-vba-from-beginner-to-hero-real-world-business-examples/?referralCode=61E43563490B07A7FA40](Udemy course link), [https://www.skillshare.com/site/join?teacherRef=907116192&sku=744128220](Skillshare course link), or [https://excelandvbacourse.com/courses/excel-and-vba-course/](ExcelVBACourse.com course link).
+  [Udemy course link](https://www.udemy.com/course/excel-vba-from-beginner-to-hero-real-world-business-examples/?referralCode=61E43563490B07A7FA40), [https://www.skillshare.com/site/join?teacherRef=907116192&sku=744128220](Skillshare course link), or [https://excelandvbacourse.com/courses/excel-and-vba-course/](ExcelVBACourse.com course link).
 
   Learn best practices when creating macros & streamline your VBA code.
 

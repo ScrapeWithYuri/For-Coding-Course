@@ -10,17 +10,15 @@ Example JSON and XML texts for the Excel and VBA Coding Course.
 
 #### **WHAT WILL YOU LEARN?**
 
-* Learn best practices when creating macros & streamline your VBA code.
-
-* Write 10+ VBA programs to automate your daily tasks.
-
-* Create dynamic Excel templates.
-
-* Send emails from Outlook & Gmail with attachments.
-
-* PDF form filling.
-
-* Selenium, web scraping and connect with APIs using VBA.
+* Create at least ten VBA scripts to help you automate your daily duties
+* Learn the fundamentals of VBA (loops, if statements, modules and more)
+* Excel templates that are dynamic
+* Send emails with attachments from Outlook and Gmail using Excel VBA
+* Use Selenium to automate web form filling, web clicks, and web scraping
+* Using a single VBA script, populate and update several Excel files
+* Filling out PDF forms
+* VBA can be used to connect to APIs
+* And there's more...
 
 ### **2. Microsoft Excel Formulas Master Class**
 
@@ -28,10 +26,13 @@ Example JSON and XML texts for the Excel and VBA Coding Course.
 
 #### **WHAT WILL YOU LEARN?**
 
-* Master Excel formulas to become more efficient.
-
-* Advanced formulas such as INDEX+MATCH, SUMPRODUCT, INDIRECT, array formulas and the wildcard character.
-
-* Learn formula tricks that most Excel users don't know exist.
-
-* Shortcuts to reduce clicking and improve productivity.
+* VLOOKUP and HLOOKUP
+* Examples and hints for the INDEX + MATCH formula
+* In formulas, there is a wildcard character (which most Excel users are unaware of)
+* The most active Excel formula is the SUMPRODUCT formula
+* Array formulas
+* To get data from other worksheets, use an INDIRECT formula
+* Excel shortcuts and efficiency tips that I use daily
+* Using the LEFT and RIGHT formulas, separate first and last names
+* With dates, use the EOMonth and DATEDIF formulas
+* And there's more...

@@ -6,6 +6,8 @@ Example JSON and XML texts for the Excel and VBA Coding Course.
 
 ### **1. Excel VBA Bootcamp: Go From Beginner To Advanced**
 
+#### **Master Microsoft Excel VBA: Dynamic Excel templates, send emails, PDF form filling, Selenium and more**
+
 [Udemy course link](https://www.udemy.com/course/excel-vba-from-beginner-to-hero-real-world-business-examples/?referralCode=61E43563490B07A7FA40)
 
 [Skillshare course link](https://www.skillshare.com/site/join?teacherRef=907116192&sku=744128220)
@@ -25,6 +27,8 @@ Example JSON and XML texts for the Excel and VBA Coding Course.
 * And there's more...
 
 ### **2. Excel Formulas Bootcamp: Go From Beginner To Advanced**
+
+#### **Master Microsoft Excel formulas: VLOOKUP, INDEX+MATCH, SUMPRODUCT, INDIRECT, DATEDIF and more**
 
 [Udemy course link](https://www.udemy.com/course/advanced-excel-formulas-shortcuts-and-excel-efficiency-tips/?referralCode=C488D4762ED444C7FF09)
 

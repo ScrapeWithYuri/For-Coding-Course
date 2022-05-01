@@ -10,7 +10,7 @@ Example JSON and XML texts for the Excel and VBA Coding Course.
 
 [Skillshare course link](https://www.skillshare.com/site/join?teacherRef=907116192&sku=744128220)
 
-[ExcelandVBACourse.com course link](https://excelandvbacourse.com/courses/excel-and-vba-course/)
+[Michael Management course link](https://www.michaelmanagement.com/sap-training-course/complete-excel-vba-course-with-business-examples)
 
 #### **WHAT WILL YOU LEARN?**
 
@@ -29,6 +29,8 @@ Example JSON and XML texts for the Excel and VBA Coding Course.
 [Udemy course link](https://www.udemy.com/course/advanced-excel-formulas-shortcuts-and-excel-efficiency-tips/?referralCode=C488D4762ED444C7FF09)
 
 [Skillshare course link](https://www.skillshare.com/site/join?teacherRef=907116192&sku=668281701)
+
+[Michael Management course link](https://www.michaelmanagement.com/sap-training-course/advanced-excel-formulas-with-business-examples)
 
 #### **WHAT WILL YOU LEARN?**
 

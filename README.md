@@ -4,7 +4,7 @@ Example JSON and XML texts for the Excel and VBA Coding Course.
 
 ## **Courses**
 
-### **1. Microsoft Excel VBA Master Class**
+### **1. Excel VBA Bootcamp: Go From Beginner To Advanced**
 
 [Udemy course link](https://www.udemy.com/course/excel-vba-from-beginner-to-hero-real-world-business-examples/?referralCode=61E43563490B07A7FA40)
 
@@ -24,7 +24,7 @@ Example JSON and XML texts for the Excel and VBA Coding Course.
 * VBA can be used to connect to APIs
 * And there's more...
 
-### **2. Microsoft Excel Formulas Master Class**
+### **2. Excel Formulas Bootcamp: Go From Beginner To Advanced**
 
 [Udemy course link](https://www.udemy.com/course/advanced-excel-formulas-shortcuts-and-excel-efficiency-tips/?referralCode=C488D4762ED444C7FF09)
 

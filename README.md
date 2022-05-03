@@ -38,11 +38,11 @@ Example JSON and XML texts for the Excel and VBA Coding Course.
 
 #### **WHAT WILL YOU LEARN?**
 
-* VLOOKUP and HLOOKUP
-* Examples and hints for the INDEX + MATCH formula
+* VLOOKUP and HLOOKUP are used to create dynamic Excel templates
+* INDEX and MATCH examples and hints
+* SUMPRODUCT can be used to slice and dice data
+* Array formulas will help you make your formulas more powerful
 * In formulas, there is a wildcard character (which most Excel users are unaware of)
-* The most active Excel formula is the SUMPRODUCT formula
-* Array formulas
 * To get data from other worksheets, use an INDIRECT formula
 * Excel shortcuts and efficiency tips that I use daily
 * Using the LEFT and RIGHT formulas, separate first and last names

@@ -6,7 +6,7 @@ Example JSON and XML texts for the Excel and VBA Coding Course.
 
 ### **1. Learn Excel VBA and Avoid Manual Work**
 
-#### **Master Microsoft Excel VBA: Dynamic Excel templates, send emails, PDF form filling, Selenium and more**
+#### **Master Microsoft Excel VBA: Dynamic templates, send emails, PDF form filling, Selenium and more**
 
 [Udemy course link](https://www.udemy.com/course/excel-vba-from-beginner-to-hero-real-world-business-examples/?referralCode=61E43563490B07A7FA40)
 

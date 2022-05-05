@@ -26,7 +26,7 @@ Example JSON and XML texts for the Excel and VBA Coding Course.
 * VBA can be used to connect to APIs
 * And there's more...
 
-### **2. Learn Excel Formulas and Avoid Manual Work**
+### **2. Learn Excel Formulas & Shortcuts and Avoid Manual Work**
 
 #### **Master Microsoft Excel formulas: VLOOKUP, INDEX+MATCH, SUMPRODUCT, INDIRECT, DATEDIF and more**
 

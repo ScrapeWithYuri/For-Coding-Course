@@ -4,7 +4,7 @@ Example JSON and XML texts for the Excel and VBA Coding Course.
 
 ## **Courses**
 
-### **1. Learn Excel VBA Using Real-World Business Examples**
+### **1. Learn Excel VBA and Avoid Manual Work**
 
 #### **Master Microsoft Excel VBA: Dynamic Excel templates, send emails, PDF form filling, Selenium and more**
 
@@ -26,7 +26,7 @@ Example JSON and XML texts for the Excel and VBA Coding Course.
 * VBA can be used to connect to APIs
 * And there's more...
 
-### **2. Learn Excel Formulas Using Real-World Business Examples**
+### **2. Learn Excel Formulas and Avoid Manual Work**
 
 #### **Master Microsoft Excel formulas: VLOOKUP, INDEX+MATCH, SUMPRODUCT, INDIRECT, DATEDIF and more**
 

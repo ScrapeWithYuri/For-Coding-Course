@@ -16,15 +16,14 @@ Example JSON and XML texts for the Excel and VBA Coding Course.
 
 #### **WHAT WILL YOU LEARN?**
 
-* Create at least ten VBA scripts to help you automate your daily duties
-* Automate mundane Excel tasks
 * Learn the fundamentals of VBA (loops, if statements, modules and more)
-* Excel templates that are dynamic
+* Automate mundane Excel tasks
+* Create dynamic Excel templates
 * Send emails with attachments from Outlook and Gmail using Excel VBA
-* Use Selenium to automate web form filling, web clicks, and web scraping
-* Using a single VBA script, populate and update several Excel files
-* Filling out PDF forms
-* VBA can be used to connect to APIs
+* Use Selenium for web automation and web scraping
+* Automate filling out PDF forms using Excel data
+* Ping APIs to pull in large quantities of data into Excel
+* Using a single VBA script, populate and update several Excel files at the same time
 * And there's more...
 
 ### **2. Complete Excel Formulas Guide: Get The Most Out Of Excel!**

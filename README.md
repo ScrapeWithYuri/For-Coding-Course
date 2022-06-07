@@ -42,8 +42,8 @@ Example JSON and XML texts for the Excel and VBA Coding Course.
 * INDEX and MATCH examples and hints
 * SUMPRODUCT can be used to slice and dice data
 * Array formulas will help you make your formulas more powerful
-* In formulas, there is a wildcard character (which most Excel users are unaware of)
-* To get data from other worksheets, use an INDIRECT formula
+* Most Excel users are unaware of the wildcard character in formulas
+* Use the INDIRECT formula to get data from other worksheets
 * Excel shortcuts and efficiency tips that I use daily
 * Using the LEFT and RIGHT formulas, separate first and last names
 * With dates, use the EOMonth and DATEDIF formulas

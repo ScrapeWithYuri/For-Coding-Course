@@ -1,6 +1,6 @@
-# For the Excel and VBA Coding Course
+# For the VBA coding course
 
-Example JSON and XML texts for the Excel and VBA Coding Course.
+JSON and XML files for the VBA coding course.
 
 ## **Courses**
 

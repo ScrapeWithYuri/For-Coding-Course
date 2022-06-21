@@ -8,11 +8,11 @@ JSON and XML files for the VBA coding course.
 
 #### **Dynamic templates, emails, form filling, web scraping, Selenium and more. Master Microsoft Excel VBA!**
 
-[Udemy Course Link](https://www.udemy.com/course/excel-vba-from-beginner-to-hero-real-world-business-examples/?referralCode=61E43563490B07A7FA40)
+[Udemy Course](https://www.udemy.com/course/excel-vba-from-beginner-to-hero-real-world-business-examples/?referralCode=61E43563490B07A7FA40)
 
-[Skillshare Course Link](https://www.skillshare.com/site/join?teacherRef=907116192&sku=744128220)
+[Skillshare Course](https://www.skillshare.com/site/join?teacherRef=907116192&sku=744128220)
 
-[Michael Management Course Link](https://www.michaelmanagement.com/sap-training-course/complete-excel-vba-course-with-business-examples)
+[Michael Management Course](https://www.michaelmanagement.com/sap-training-course/complete-excel-vba-course-with-business-examples)
 
 #### **WHAT WILL YOU LEARN?**
 
@@ -30,11 +30,11 @@ JSON and XML files for the VBA coding course.
 
 #### **VLOOKUP, INDEX+MATCH, SUMPRODUCT, INDIRECT, DATEDIF and more. Master Microsoft Excel formulas!**
 
-[Udemy Course Link](https://www.udemy.com/course/advanced-excel-formulas-shortcuts-and-excel-efficiency-tips/?referralCode=C488D4762ED444C7FF09)
+[Udemy Course](https://www.udemy.com/course/advanced-excel-formulas-shortcuts-and-excel-efficiency-tips/?referralCode=C488D4762ED444C7FF09)
 
-[Skillshare Course Link](https://www.skillshare.com/site/join?teacherRef=907116192&sku=668281701)
+[Skillshare Course](https://www.skillshare.com/site/join?teacherRef=907116192&sku=668281701)
 
-[Michael Management Course Link](https://www.michaelmanagement.com/sap-training-course/advanced-excel-formulas-with-business-examples)
+[Michael Management Course](https://www.michaelmanagement.com/sap-training-course/advanced-excel-formulas-with-business-examples)
 
 #### **WHAT WILL YOU LEARN?**
 

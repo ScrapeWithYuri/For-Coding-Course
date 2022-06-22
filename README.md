@@ -4,7 +4,7 @@ JSON and XML files for the VBA coding course.
 
 ## **Courses**
 
-### **1. Excel VBA Automation: Get The Most Out Of Excel!**
+### **1. Excel VBA: Efficiently Learn To Code And Save Time!**
 
 #### **Dynamic templates, emails, form filling, web scraping, Selenium and more. Master Microsoft Excel VBA!**
 

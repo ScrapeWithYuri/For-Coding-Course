@@ -26,9 +26,9 @@ JSON and XML files for the VBA coding course.
 * Using a single VBA script, populate and update several Excel files at the same time
 * And there's more...
 
-### **2. Complete Excel Formulas Guide: Get The Most Out Of Excel!**
+### **2. Best Excel Formulas You Need To Know!**
 
-#### **VLOOKUP, INDEX+MATCH, SUMPRODUCT, INDIRECT, DATEDIF and more. Master Microsoft Excel formulas!**
+#### **VLOOKUP, INDEX+MATCH, SUMPRODUCT, INDIRECT, array formulas and more. Master Microsoft Excel formulas!**
 
 [Udemy Course](https://www.udemy.com/course/advanced-excel-formulas-shortcuts-and-excel-efficiency-tips/?referralCode=C488D4762ED444C7FF09)
 

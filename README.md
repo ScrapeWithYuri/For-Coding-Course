@@ -4,7 +4,7 @@ JSON and XML files for the VBA coding course.
 
 ## **Courses**
 
-### **1. Excel VBA: Efficiently Learn To Code And Save Time!**
+### **1. Excel VBA: Quickly Learn To Code And Save Time!**
 
 #### **Automate Excel, dynamic templates, emails, form filling, web scraping, Selenium. Master Microsoft Excel VBA!**
 
@@ -26,7 +26,7 @@ JSON and XML files for the VBA coding course.
 * Using a single VBA script, populate and update several Excel files at the same time
 * And there's more...
 
-### **2. Excel: Quickly Learn The Best Formulas!**
+### **2. Excel: Quickly Learn The Best Formulas To Save Time!**
 
 #### **VLOOKUP, INDEX, MATCH, SUMPRODUCT, INDIRECT, array formulas, shortcuts. Master Microsoft Excel formulas!**
 

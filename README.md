@@ -28,7 +28,7 @@ JSON and XML files for the VBA coding course.
 
 ### **2. Excel: Quickly Learn The Best Formulas!**
 
-#### **VLOOKUP, INDEX+MATCH, SUMPRODUCT, INDIRECT, array formulas, shortcuts. Master Microsoft Excel formulas!**
+#### **VLOOKUP, INDEX, MATCH, SUMPRODUCT, INDIRECT, array formulas, shortcuts. Master Microsoft Excel formulas!**
 
 [Udemy Course](https://www.udemy.com/course/advanced-excel-formulas-shortcuts-and-excel-efficiency-tips/?referralCode=C488D4762ED444C7FF09)
 

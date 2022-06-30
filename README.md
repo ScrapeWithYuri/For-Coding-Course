@@ -6,7 +6,7 @@ JSON and XML files for the VBA coding course.
 
 ### **1. Excel VBA: Quickly Learn To Code And Save Time!**
 
-#### **Automate Excel, dynamic templates, emails, form filling, web scraping, Selenium. Master Microsoft Excel VBA!**
+#### **Automate Excel, dynamic templates, send emails, form filling, web scraping, Selenium. Master Microsoft Excel VBA!**
 
 [Udemy Course](https://www.udemy.com/course/excel-vba-from-beginner-to-hero-real-world-business-examples/?referralCode=61E43563490B07A7FA40)
 

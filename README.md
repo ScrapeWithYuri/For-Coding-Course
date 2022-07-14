@@ -26,7 +26,7 @@ JSON and XML files for the VBA coding course.
 * Using a single VBA script, populate and update several Excel files at the same time
 * And there's more...
 
-### **2. Excel: Quickly Learn The Best Formulas To Save Time!**
+### **2. Excel: Quickly Learn The Best Advanced Formulas!**
 
 #### **VLOOKUP, INDEX, MATCH, SUMPRODUCT, INDIRECT, array formulas, shortcuts. Master Microsoft Excel formulas!**
 
